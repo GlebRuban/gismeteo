@@ -1,0 +1,49 @@
+body {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  background-color: #eee;
+}
+
+.content-wrapper {
+  transition: .6s;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-content i {
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.hide {
+  display: none;
+}
+
+.display-7 {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.display-8 {
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.display-9 {
+  font-size: 0.7rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.display-10 {
+  font-size: 0.4rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
